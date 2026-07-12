@@ -5,6 +5,11 @@
 ![](https://komarev.com/ghpvc/?username=Ezexkedir10&color=blueviolet&style=for-the-badge
 )
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="[https://komarev.com/ghpvc/?username=Ezexkedir10&color=blueviolet&style=for-the-badge)" alt="Visitor's Count" />
+</div>
+
 ## 👨‍💻 About Me
 
 🎓 Computer Science & Engineering Graduate
