@@ -1,7 +1,18 @@
-## Hi there 👋
-This is the single biggest improvement you can make. It gives recruiters an immediate overview of your skills and projects. GitHub profile READMEs commonly include stats, tech badges, and featured projects to improve presentation and discoverability.
+# Hi there 👋 I'm Ezedin Kedir
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/github.Ezexkedir10.com/count.svg" alt="Visitor's Count" />
-</div>
+💻 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Building modern web experiences
+
+![](https://komarev.com/ghpvc/?username=Ezexkedir10&color=blueviolet&style=for-the-badge
+)
+
+## 👨‍💻 About Me
+
+🎓 Computer Science & Engineering Graduate
+
+   Specialized in Full-Stack Web Development
+
+   Experienced with Next.js, React, Django, Tailwind CSS, and PostgreSQL
+
+   Solved 100+ algorithmic problems on LeetCode and Codeforces
+
+   Currently building a modern Ethiopian Football Industry platform
