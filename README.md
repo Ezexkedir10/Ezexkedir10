@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is the single biggest improvement you can make. It gives recruiters an immediate overview of your skills and projects. GitHub profile READMEs commonly include stats, tech badges, and featured projects to improve presentation and discoverability.
 <!--
 **Ezexkedir10/Ezexkedir10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
