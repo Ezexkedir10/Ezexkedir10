@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ezedin-kedir.onrender.com/](https://ezedin-kedir.onrender.com/)
 
-- 📝 I regularly write articles on [https://ezexkedir10.blogspot.com/](https://ezexkedir10.blogspot.com/)
-
 - 💬 Ask me about **Next.js, React, Django REST Framework, UI/UX Design, Full-Stack Development**
 
 - 📫 How to reach me **ezexkedir19@gmail.com**
