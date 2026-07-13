@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Open-source web development projects**
 
 - 🤝 I’m looking for help with **Scalable backend architecture and system design**
-- 
+  
 - 💬 Ask me about **Next.js, React, Django REST Framework, UI/UX Design, Full-Stack Development**
 
 - 📫 How to reach me **ezexkedir19@gmail.com**
