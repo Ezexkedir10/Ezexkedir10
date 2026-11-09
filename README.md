@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezexkedir10&label=Profile%20views&color=0e75b6&style=flat" alt="ezexkedir10" /> </p>
 
-- 🔭 I’m currently working on **Ethiopian Football Industry Websites**
-
 - 🌱 I’m currently learning **Advanced Backend Architecture, System Design, Performance Optimization**
 
 - 👯 I’m looking to collaborate on **Open-source web development projects**
